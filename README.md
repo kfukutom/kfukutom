@@ -13,6 +13,5 @@ EECS 201 - Introduction to Linux Programming
 EECS 203 - Discrete Mathematics  
 EECS 280 - Data Structures and Algorithms  
 EECS 281 - Advanced Data Structures and Algorithms  
-EECS 370 - Computer Organization and Assembly Language  
 CMPLXSYS 335 - Network Science  
 URP 535 - Urban Informatics (Graduate Level)
